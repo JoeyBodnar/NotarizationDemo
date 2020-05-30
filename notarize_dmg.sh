@@ -2,7 +2,7 @@
 
 # $1 is your developer email
 # $2 is your developer team ID
-# run script like: bash notarizedmg.sh yourEmail@email.com XXABCD1234
+# run script: bash notarize_dmg.sh yourEmail@email.com ABCDEF1234
 
 # remove previous folders
 rm -rf archive
